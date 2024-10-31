@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-red-500'>Hey am here!!!!!!!!!!!!!!!</h1>
+     {/* <h1 className='bg-red-500'>Hey am here!!!!!!!!!!!!!!!</h1> */}
     </>
   )
 }
